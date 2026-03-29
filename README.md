@@ -1,3 +1,4 @@
+
 # 🍽️ Restaurant Management - Simple Python Menu
 
 This is a simple **Python console application** to take orders from a restaurant menu and calculate the total price.  
@@ -19,3 +20,4 @@ This is a simple **Python console application** to take orders from a restaurant
 3. The program adds the item to the order and shows the current total.
 4. The user is asked if they want to order more.
 5. The program calculates the final total and thanks the customer.
+<img width="1370" height="846" alt="Screenshot 2026-03-29 at 17 35 20" src="https://github.com/user-attachments/assets/2acc8147-45e8-4f5c-bef2-89ff7df5f72d" />
